@@ -1,4 +1,4 @@
-# node-bird
+# node-cityscoot-lite
 
 Lite version of [node-cityscoot](https://github.com/jzarca01/node-cityscoot)
 
